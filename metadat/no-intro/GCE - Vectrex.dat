@@ -247,3 +247,9 @@ game (
 	region "USA"
 	rom ( name "WebWars (USA).vec" size 8192 crc 2EE20103 md5 A398C18B4CE87929471B559B2BC7E79F sha1 08E2DF9F7769C16A4D730ADF8D659F8EA4BE7F9D )
 )
+game (
+	name "Vector Pong (Homebrew)"
+	description "Vector Pong (Homebrew)"
+	region "USA"
+	rom ( name "VectorPongV104.bin" size 10674 crc 10506248 md5 c92f22327e3ba5750d061d817531761a sha1 1a06cee551489ef156332a62f43ac1a3794efc06 )
+)
