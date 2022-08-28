@@ -1,0 +1,73 @@
+clrmamepro (
+	name "Arduboy"
+	description "Arduboy"
+)
+
+game (
+	name "1nvader"
+	rom ( name "1vader.hex" size 73580 crc B5C9D91A )
+)
+game (
+	name "Ardu-EZ Button"
+	rom ( name "ardu-ez_button_v1.0.hex" size 39622 crc BBB528E8 )
+)
+game (
+	name "Ardu-Man"
+	rom ( name "Ardu-man.hex" size 64412 crc 676203CA )
+)
+game (
+	name "ArduGods"
+	rom ( name "ardugods.hex" size 69878 crc 3B81448D )
+)
+game (
+	name "ArduGolf: 18-Hole Mini Golf"
+	rom ( name "ArduGolf.hex" size 78641 crc DF656DF2 )
+)
+game (
+	name "Arduminer"
+	rom ( name "Arduminer.hex" size 66560 crc EAAD746C )
+)
+game (
+	name "Ardusweeper"
+	rom ( name "Puzzle_Ardusweeper_Ardusweeper.hex" size 58252 crc 805F0C80 )
+)
+game (
+	name "Arduventure: Trail of the Blade"
+	rom ( name "ARDU_AB.ino.arduino_leonardo.hex" size 77225 crc 5274A6B7 )
+)
+game (
+	name "Ardynia"
+	rom ( name "ardynia.hex" size 80404 crc 879A1255 )
+)
+game (
+	name "Blackjack"
+	rom ( name "Blackjack.hex" size 74935 crc 5D8BB5A9 )
+)
+game (
+	name "Catacombs of the Damned"
+	rom ( name "Arduboy3D.hex" size 80244 crc 691C4C6F )
+)
+game (
+	name "Dice of Fate"
+	rom ( name "DICE_AB.ino.arduino_leonardo.hex" size 63202 crc FD910129 )
+)
+game (
+	name "Fire Panic"
+	rom ( name "FirePanic.hex" size 75241 crc 6A12F994 )
+)
+game (
+	name "Kong"
+	rom ( name "Kong.V1.0.4.hex" size 76526 crc 26ADA9BD )
+)
+game (
+	name "Kong II"
+	rom ( name "Arcade_Kong-II_KongII.V1.0.hex" size 78828 crc DAF07DCA )
+)
+game (
+	name "Not Just a Hat Rack"
+	rom ( name "Hatrack_1_0.hex" size 72517 crc 19B0B8FA )
+)
+game (
+	name "Sudoku-NBP"
+	rom ( name "Puzzle_Sudoku-NBP_Sudoku-NBP.hex" size 75296 crc 503963C1 )
+)
